@@ -36,7 +36,6 @@ Responsável pelas rotas, documentação e testes do sistema.
 - Criação da documentação do projeto;
 - Testes das funcionalidades;
 - Verificação de erros e validações.
-
 ---
 
 # Cronograma Inicial
